@@ -37,7 +37,7 @@ npm run dev
 livecodeserver
 
 
-5. Open the app in your browser at [http://localhost:3000](http://localhost:5173).
+5. Open the app in your browser at [http://localhost:5173](http://localhost:5173).
 
 ## Usage
 
