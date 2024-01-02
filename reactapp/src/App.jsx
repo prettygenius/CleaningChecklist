@@ -61,7 +61,3 @@ function App() {
 export default App
 
 
-//splice delete/remove insert insert
-
-
-//slice [start], [end] not included
